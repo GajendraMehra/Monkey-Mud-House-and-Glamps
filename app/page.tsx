@@ -70,7 +70,7 @@ export default function ComingSoon() {
 
         {/* Tagline */}
         <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-amber-100 mb-8 md:mb-12 text-center max-w-xs sm:max-w-md md:max-w-2xl animate-fade-in-delay px-2">
-          A boutique stay near Bir's paragliding landing site. Blending modern comfort with mountain charm for travelers seeking thoughtful spaces and meaningful experiences.
+          A boutique stay near Bir&apos;s paragliding landing site. Blending modern comfort with mountain charm for travelers seeking thoughtful spaces and meaningful experiences.
         </p>
 
         {/* Countdown Timer */}
