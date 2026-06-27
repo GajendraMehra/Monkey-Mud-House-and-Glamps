@@ -13,18 +13,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Monkey Mud House & Glamps - Eco-Luxury Homestay Coming Soon",
-  description: "Experience nature like never before at Monkey Mud House & Glamps. Traditional mud houses and luxury glamping in the heart of wilderness. Opening soon!",
-  keywords: "Monkey Mud House, glamping, eco-tourism, homestay, mud house accommodation, nature retreat, eco-luxury, wilderness experience",
-  authors: [{ name: "Monkey Mud House & Glamps" }],
-  creator: "Monkey Mud House & Glamps",
-  publisher: "Monkey Mud House & Glamps",
+  title: "Draft House - Boutique Stay in Bir, Himachal Pradesh | Coming Soon",
+  description: "Draft House, Bir is a boutique stay nestled near the Bir paragliding landing site, designed for travelers who appreciate thoughtful spaces, warm hospitality, and meaningful experiences. Blending modern comfort with mountain charm, our private rooms and cozy dorms offer the perfect base to explore Bir. Whether you're here to fly, work remotely, or simply slow down, Draft House invites you to connect, unwind, and create stories worth sharing.",
+  keywords: "Draft House, boutique hotel Bir, Himachal Pradesh hotels, mountain resort, luxury stay Bir, paragliding Bir, boutique accommodation, Himalayan retreat",
+  authors: [{ name: "Draft House Bir" }],
+  creator: "Draft House Bir",
+  publisher: "Draft House Bir",
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://monkeymudhouse.com"),
+  metadataBase: new URL("https://drafthouse.bir.com"),
   alternates: {
     canonical: "/",
   },
@@ -34,18 +34,19 @@ export const metadata: Metadata = {
     'og:image:type': 'image/jpeg',
     'og:image:width': '1200',
     'og:image:height': '630',
+    'og:locale': 'en_IN',
   },
   openGraph: {
-    title: "Monkey Mud House & Glamps - Eco-Luxury Homestay Coming Soon",
-    description: "Experience nature like never before. Traditional mud houses and luxury glamping awaits you. Opening soon!",
-    url: "https://monkeymudhouse.com",
-    siteName: "Monkey Mud House & Glamps",
+    title: "Draft House - Boutique Stay in Bir, Himachal Pradesh | Coming Soon",
+    description: "Draft House, Bir is a boutique stay nestled near the Bir paragliding landing site, designed for travelers who appreciate thoughtful spaces, warm hospitality, and meaningful experiences. Blending modern comfort with mountain charm, our private rooms and cozy dorms offer the perfect base to explore Bir.",
+    url: "https://drafthouse.bir.com",
+    siteName: "Draft House Bir",
     images: [
       {
         url: "https://www.drafthospitality.com/brand.jpg",
         width: 1200,
         height: 630,
-        alt: "Monkey Mud House & Glamps - Eco-Luxury Homestay",
+        alt: "Draft House - Boutique Stay in Bir, Himachal Pradesh",
       },
     ],
     locale: "en_US",
@@ -53,11 +54,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Monkey Mud House & Glamps - Coming Soon",
-    description: "Experience eco-luxury in traditional mud houses and glamping tents. Opening soon!",
+    title: "Draft House Bir - Boutique Stay Coming Soon",
+    description: "Draft House, Bir is a boutique stay near the paragliding landing site. Blending modern comfort with mountain charm for travelers seeking thoughtful spaces and meaningful experiences.",
     images: ["https://www.drafthospitality.com/brand.jpg"],
-    creator: "@monkeymudhouse",
-    site: "@monkeymudhouse",
+    creator: "@drafthousebir",
+    site: "@drafthousebir",
   },
   robots: {
     index: true,
