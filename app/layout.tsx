@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteName: "Monkey Mud House & Glamps",
     images: [
       {
-        url: "/brand.jpg",
+        url: "https://www.drafthospitality.com/brand.jpg",
         width: 1200,
         height: 630,
         alt: "Monkey Mud House & Glamps - Eco-Luxury Homestay",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Monkey Mud House & Glamps - Coming Soon",
     description: "Experience eco-luxury in traditional mud houses and glamping tents. Opening soon!",
-    images: ["/brand.jpg"],
+    images: ["https://www.drafthospitality.com/brand.jpg"],
     creator: "@monkeymudhouse",
     site: "@monkeymudhouse",
   },

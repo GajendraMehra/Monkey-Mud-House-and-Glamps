@@ -50,6 +50,11 @@ export default function ComingSoon() {
 
       {/* Main Content */}
       <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8">
+        {/* Coming Soon Title */}
+        <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-amber-100 mb-4 md:mb-6 animate-fade-in tracking-wider">
+          COMING SOON
+        </h2>
+
         {/* Logo/Title Section */}
         <div className="text-center mb-6 md:mb-8 animate-fade-in">
           <div className="inline-block relative">
